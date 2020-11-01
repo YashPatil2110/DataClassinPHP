@@ -1,0 +1,27 @@
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background:teal;
+    background-size:cover;
+    font-color: White;
+    width: 100%;
+    height: max-content;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+header 
+{
+    
+    color: white;
+    padding: 20px 20px 20px 100px;
+}
+
+
+.detailcontainer 
+{
+    padding:20px 20px 20px 50px;
+    font-color:white;
+    border-style: groove;
+    margin: 20px 20px 20px 50px;
+}
